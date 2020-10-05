@@ -4,7 +4,7 @@ Python script for analyzing the financial records of your company. You will give
 
 Python script to evaluate more than 3 million of votes in an specific region.
 
-## Extra Content
+## Extra Applications
 
 Python script to transform a big dataset about employees.
 
